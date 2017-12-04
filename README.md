@@ -1,6 +1,8 @@
 JSON Form
 =========
 
+I'm going to continue the work started by joshfire, because I think this code has some great potential.  At this point, the repo is cloned.  My first plan is to de-couple from underscorejs and make the output themeable with a first focus on bootstrap 3 and 4.
+
 The JSON Form library is a JavaScript client-side library that takes a
 structured data model defined using [JSON Schema](http://json-schema.org/) as
 input and returns a [Bootstrap](http://twitter.github.com/bootstrap/)-friendly
